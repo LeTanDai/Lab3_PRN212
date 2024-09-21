@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Lab3\Excercise3\bin\Debug\net8.0\Excercise3.exe
+C:\Users\ASUS\source\repos\Lab3\Excercise3\bin\Debug\net8.0\Excercise3.deps.json
+C:\Users\ASUS\source\repos\Lab3\Excercise3\bin\Debug\net8.0\Excercise3.runtimeconfig.json
+C:\Users\ASUS\source\repos\Lab3\Excercise3\bin\Debug\net8.0\Excercise3.dll
+C:\Users\ASUS\source\repos\Lab3\Excercise3\bin\Debug\net8.0\Excercise3.pdb
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\Excercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\Excercise3.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\Excercise3.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\Excercise3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\Excercise3.dll
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\refint\Excercise3.dll
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\Excercise3.pdb
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\Excercise3.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Lab3\Excercise3\obj\Debug\net8.0\ref\Excercise3.dll
